@@ -1,0 +1,15 @@
+{
+	"name": "datafactoryrishi9090",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2ea55287-f20f-489b-92e9-f36e8b3a4ba1",
+		"tenantId": "6b655947-c4b7-4db6-a8b0-f67cac9d3bd5"
+	}
+}
